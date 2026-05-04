@@ -95,7 +95,7 @@ banner = """
                     | $$                                                        
                     | $$                                                        
                     |__/
-@stromer4len tarafından kodlanmıştır.
+@4ssembly tarafından kodlanmıştır.
 """
 my_ip = requests.get("https://api.ipify.org").text
 
